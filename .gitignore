@@ -1,8 +1,17 @@
-venv/
+# environments
 .venv/
+venv/
 
+# datasets
+00data/raw/
+00data/processed/
+
+# python cache
 __pycache__/
+*.pyc
+
+# jupyter
 .ipynb_checkpoints/
 
-*.pyc
+# macOS
 .DS_Store
