@@ -1,0 +1,73 @@
+﻿Flow,Added info,Unit in dataset,#CO2 in dataset,Amount_tonnes_CO2,#CH4 in dataset,Amount_tonnes_CH4,#CO in dataset,Amount_tonnes_CO,Sankey node flow name,Type,Source
+1.A.1. Energy industries,1.A.1.a. Public electricity and heat production,thousand_tonnes,567984.1094,567984109.4,119.3566978,119356.6978,283.6814847,283681.4847,Energy production,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c441
+,1.A.1.b. Petroleum refining,thousand_tonnes,92901.36278,92901362.78,2.359067881,2359.067881,17.54960913,17549.60913,Energy,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c442
+,1.A.1.c. Manufacture of solid fuels and other energy industries,thousand_tonnes,27653.02992,27653029.92,6.357444519,6357.444519,82.13255458,82132.55458,Energy,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c443
+1.A.2. Manufacturing industries and construction,1.A.2.a. Iron and steel,thousand_tonnes,67597.94704,67597947.04,4.597164908,4597.164908,613.2171556,613217.1556,Manufacturing,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c444
+,1.A.2.b. Non-ferrous metals,thousand_tonnes,7721.145915,7721145.915,0.391923416,391.9234163,12.2627147,12262.7147,Manufacturing,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c445
+,1.A.2.c. Chemicals,thousand_tonnes,47405.60895,47405608.95,14.30841709,14308.41709,31.22966901,31229.66901,Manufacturing,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c446
+,"1.A.2.d. Pulp, paper and print",thousand_tonnes,16207.28522,16207285.22,8.440339566,8440.339566,54.57698982,54576.98982,Manufacturing,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c447
+,"1.A.2.e. Food processing, beverages and tobacco",thousand_tonnes,31823.0275,31823027.5,17.29673523,17296.73523,41.22039147,41220.39147,Manufacturing,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c448
+,1.A.2.f. Non-metallic minerals,thousand_tonnes,70889.68146,70889681.46,9.644524009,9644.524009,228.3376777,228337.6777,Manufacturing,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c449
+,1.A.2.g. Other ,thousand_tonnes,114345.1253,114345125.3,20.39341533,20393.41533,353.1259366,353125.9366,Manufacturing,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c450
+1.A.3. Transport,1.A.3.a. Domestic aviation,thousand_tonnes,13053.98396,13053983.96,0.222930628,222.9306283,47.12628335,47126.28335,Transport,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c451
+,1.A.3.b. Road transportation,thousand_tonnes,749089.7812,749089781.2,38.15863764,38158.63764,2353.026356,2353026.356,Transport,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c452
+,1.A.3.c. Railways,thousand_tonnes,3226.42297,3226422.97,0.193690377,193.6903774,10.70874368,10708.74368,Transport,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c453
+,1.A.3.d. Domestic navigation,thousand_tonnes,16232.3433,16232343.3,3.090667203,3090.667203,222.7922105,222792.2105,Transport,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c454
+,1.A.3.e. Other transportation,thousand_tonnes,4140.37093,4140370.93,0.310961774,310.9617737,4.113835238,4113.835238,Transport,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c455
+1.A.4. Other sectors,1.A.4.a. Commercial/institutional,thousand_tonnes,100643.644,100643644,26.10825443,26108.25443,215.6727362,215672.7362,Other,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c456
+,1.A.4.b. Residential,thousand_tonnes,251588.0024,251588002.4,495.1853301,495185.3301,5825.105715,5825105.715,Residential,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c457
+,1.A.4.c. Agriculture/forestry/fishing,thousand_tonnes,69784.49405,69784494.05,72.70730974,72707.30974,394.7778413,394777.8413,AFF,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c458
+1.A.5. Other,,thousand_tonnes,7265.4656,7265465.6,0.465185895,465.1858954,60.9112613,60911.2613,Other,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c459
+1.B.1. Fugitive emissions from Solid fuels,1.B.1.a. Coal mining and handling,thousand_tonnes,149.1780539,149178.0539,783.5506652,783550.6652,0,0,Fossil Energy (direct),Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c460
+,1.B.1.b. Fuel transformation,thousand_tonnes,2800.567234,2800567.234,2.299066469,2299.066469,24.63355272,24633.55272,Fossil Energy (direct),Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c461
+,1.B.1.c. Other,thousand_tonnes,56.01137843,56011.37843,3.037320934,3037.320934,0.00111,1.11,Fossil Energy (direct),Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c462
+1.B.2. Oil and natural gas and other emissions from energy production,1.B.2.a. Oil,thousand_tonnes,8941.218616,8941218.616,26.00820685,26008.20685,40.87325273,40873.25273,Energy production,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c463
+,1.B.2.b. Natural gas,thousand_tonnes,747.6856377,747685.6377,402.6821495,402682.1495,0.07445764,74.45764,Energy production,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c464
+,1.B.2.c. Venting and flaring,thousand_tonnes,2434.754527,2434754.527,93.34006691,93340.06691,3.309908714,3309.908714,Energy production,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c465
+,1.B.2.d. Other,thousand_tonnes,1789.413831,1789413.831,19.41739296,19417.39296,0,0,Energy production,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c466
+1.D.1. International bunkers,1.D.1.a. Aviation,thousand_tonnes,121742.8593,121742859.3,0.777107442,777.1074419,142.5455112,142545.5112,Bunkers,Stock,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c467
+,1.D.1.b.Navigation,thousand_tonnes,120756.2735,120756273.5,14.44202477,14442.02477,111.3238967,111323.8967,Bunkers,Stock,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c468
+1.D.2. Multilateral operations,,thousand_tonnes,1.0632009,1063.2009,,0,0.0070512,7.0512,Other,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c469
+1.D.3. CO2 emissions from biomass,,thousand_tonnes,566962.7407,566962740.7,,0,0,0,Biomass,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c470
+1.D.4. CO2 captured,,thousand_tonnes,-51.85688227,-51856.88227,,0,0,0,CCS,Outflow,https://www.eea.europa.eu/en/analysis/publications/annual-european-union-greenhouse-gas-inventory-2025?activeTab=13e424cd-5934-4614-92ef-e6be8d05c471
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
