@@ -1,29 +1,29 @@
-Carrier,Unit in dataset,Carbon content factor [kg C/kg],Carbon content unit
+Carrier,Unit in dataset,Carbon content factor,Carbon content unit
 Fossil,,,
-Hard coal,TJ,0.716,kg C / kg
-Lignite,,0.328,kg C / kg
-Natural gas,TJ,0.734,kg C / kg
-Crude oil,,0.846,kg C / kg
-Refined oil,,0.856,kg C / kg
-Petroleum coke,,0.863,kg C / kg
-Coke (from coal),,0.823,kg C / kg
-Petrochemical feedstock,,0.869,kg C / kg
-Biomass,Wet,Dry,
-Primary biomass,0.32,0.5,kg C / kg
-Wood pellets / Timber of Biomass forestry,,0.476,kg C / kg
-Crops & livestock,0.27,0.48,kg C / kg
-Non-food biomass,0.59,0.62,kg C / kg
+Hard coal,tonne,0.716,kg C / kg
+Lignite,tonne,0.328,kg C / kg
+Natural gas,TJ,15.3,tonne C/TJ
+Crude oil,tonne,0.846,kg C / kg
+Refined oil,tonne,0.856,kg C / kg
+Petroleum coke,tonne,0.863,kg C / kg
+Coke (from coal),tonne,0.823,kg C / kg
+Petrochemical feedstock,tonne,0.869,kg C / kg
+Biomass,,,
+Primary biomass,tonne,0.5,kg C / kg
+Wood pellets / Timber of Biomass forestry,tonne,0.476,kg C / kg
+Crops & livestock,tonne,0.48,kg C / kg
+Non-food biomass,tonne,0.62,kg C / kg
 Industrial,,,
-Limestone,,0.12,kg C / kg
-Virgin plastics,,0.741,kg C / kg
-Transport fuels,,0.856,kg C / kg
+Limestone,tonne,0.12,kg C / kg
+Virgin plastics,tonne,0.741,kg C / kg
+Transport fuels,tonne,0.856,kg C / kg
 Gasses,,,
-CO2 ,,0.27,kg C / kg
-CH4 ,,0.75,kg C / kg
-CO,,0.428,kg C / kg
+CO2 ,tonne,0.27,kg C / kg
+CH4 ,tonne,0.75,kg C / kg
+CO,tonne,0.428,kg C / kg
 Waste,,,
-Plastic waste,,0.741,kg C / kg
+Plastic waste,tonne,0.741,kg C / kg
 Landfilled carbon,,,
-Plastics in buildings,,0.741,kg C / kg
-Wood in construction,,0.476,kg C / kg
-Bitumen in roads,,0.884,kg C / kg
+Plastics in buildings,tonne,0.741,kg C / kg
+Wood in construction,tonne,0.476,kg C / kg
+Bitumen in roads,tonne,0.884,kg C / kg
