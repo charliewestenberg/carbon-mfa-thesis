@@ -1,7 +1,8 @@
 Carrier,Unit in dataset,Carbon content factor,Carbon content unit
 Fossil,,,
 Hard coal,tonne,0.716,kg C / kg
-Lignite,tonne,0.328,kg C / kg
+Brown coal,tonne,0.328,kg C / kg
+Peat,tonne,0.282,kg C / kg
 Natural gas,TJ,15.3,tonne C/TJ
 Crude oil,tonne,0.846,kg C / kg
 Refined oil,tonne,0.856,kg C / kg
