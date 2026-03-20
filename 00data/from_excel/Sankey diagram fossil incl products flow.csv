@@ -1,0 +1,47 @@
+﻿Source,Target,Value_tC,Carrier_detail,Carrier,Flow,flow_type
+Import,Fossil inflow,420529288.3,Crude oil,Crude oil,Fossil,Inflow
+Import,Fossil inflow,66174548.66,Hard coal,Hard coal and brown coal,Fossil,Inflow
+Import,Fossil inflow,516538.992,Brown coal,Hard coal and brown coal,Fossil,Inflow
+Import,Fossil inflow,22482.45,Peat,Hard coal and brown coal,Fossil,Inflow
+Import,Fossil inflow,191635213.3,Gas,Gas,Fossil,Inflow
+Indigenous production,Fossil inflow,16122248.23,Crude oil,Crude oil,Fossil,Inflow
+Indigenous production,Fossil inflow,35600800.92,Hard coal,Hard coal and brown coal,Fossil,Inflow
+Indigenous production,Fossil inflow,73770287.79,Brown coal,Hard coal and brown coal,Fossil,Inflow
+Indigenous production,Fossil inflow,538807.248,Peat,Hard coal and brown coal,Fossil,Inflow
+Indigenous production,Fossil inflow,11335021.87,Crude oil,Crude oil,Fossil,Inflow
+Indigenous production,Fossil inflow,18754272.92,Gas,Gas,Fossil,Inflow
+Fossil inflow,Exports,12187795.79,Crude oil,Crude oil,Fossil,Outflow
+Fossil inflow,Exports,7368799.92,Hard coal,Hard coal and brown coal,Fossil,Outflow
+Fossil inflow,Exports,892149.504,Brown coal,Hard coal and brown coal,Fossil,Outflow
+Fossil inflow,Exports,8079.018,Peat,Hard coal and brown coal,Fossil,Outflow
+Fossil inflow,Exports,34314175.18,Gas,Gas,Fossil,Outflow
+Fossil inflow,International bunkers,278359.9992,Gas,Gas,Fossil,Outflow
+Released stocks,Fossil inflow,2505965.632,Hard coal,Hard coal and brown coal,Fossil,Inflow
+Released stocks,Fossil inflow,830384.152,Brown coal,Hard coal and brown coal,Fossil,Inflow
+Released stocks,Fossil inflow,1156683.348,Crude oil,Crude oil,Fossil,Inflow
+Released stocks,Fossil inflow,1262136.994,Gas,Gas,Fossil,Inflow
+Fossil inflow,Stock,3419992.224,Crude oil,Crude oil,Fossil,Stock
+Fossil inflow,Stock,442333.356,Peat,Hard coal and brown coal,Fossil,Stock
+Fossil inflow,Refining & Conversion,433535410,Crude oil,Crude oil,Fossil,Refinery
+Fossil inflow,Refining & Conversion,177059100,Gas,Gas,Fossil,Refinery
+Fossil inflow,Refining & Conversion,74225060,Brown coal,Hard coal and brown coal,Fossil,Refinery
+Fossil inflow,Refining & Conversion,96912520,Hard coal,Hard coal and brown coal,Fossil,Refinery
+Fossil inflow,Refining & Conversion,110877.3,Peat,Hard coal and brown coal,Fossil,Refinery
+Refining & Conversion,Energy production,5595362.29,Refinery Products,Refinery Products,Fossil,Internal
+Refining & Conversion,Transport,213312613.4,Refinery Products,Refinery Products,Fossil,Internal
+Refining & Conversion,Manufacturing industries and construction,96745295.93,Refinery Products,Refinery Products,Fossil,Internal
+Refining & Conversion,Energy industries,186165760.1,Refinery Products,Refinery Products,Fossil,Internal
+Refining & Conversion,Other,119136269.2,Refinery Products,Refinery Products,Fossil,Internal
+Refining & Conversion,International bunkers,65594988.63,Refinery Products,Refinery Products,Fossil,Sink
+Refining & Conversion,Multilateral operations,290.09,Refinery Products,Refinery Products,Fossil,Internal
+Refining & Conversion,CO2 captured,14001.36,Refinery Products,Refinery Products,Fossil,Sink
+Energy production,Carbon Emissions,5595362.29,Refinery Products,Refinery Products,Fossil,Emissions
+Transport,Carbon Emissions,213312613.4,Refinery Products,Refinery Products,Fossil,Emissions
+Manufacturing industries and construction,Carbon Emissions,96745295.93,Refinery Products,Refinery Products,Fossil,Emissions
+Energy industries,Carbon Emissions,186165760.1,Refinery Products,Refinery Products,Fossil,Emissions
+Other,Carbon Emissions,119136269.2,Refinery Products,Refinery Products,Fossil,Emissions
+Multilateral operations,Carbon Emissions,290.09,Refinery Products,Refinery Products,Fossil,Emissions
+Refining & Conversion,Other materials (incl. end-plastics),44459582.1,Petrochemicals,Other materials (incl. end-plastics),Fossil,Sink
+Refining & Conversion,Other materials (incl. end-plastics),9364623.4,Bitumen,Other materials (incl. end-plastics),Fossil,Sink
+Refining & Conversion,Other materials (incl. end-plastics),911497.1975,Other materials,Other materials (incl. end-plastics),Fossil,Sink
+Refining & Conversion,Unallocated Carbon (Balancing Flow),40564297.3,Refinery Products,Refinery Products,Fossil,Sink
