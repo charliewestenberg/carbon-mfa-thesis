@@ -1,0 +1,58 @@
+﻿Source,Target,Value_tC,Carrier,Flow,flow_type
+Primary production,Fossil inflow,84124370.19,Solid fossil fuels,Fossil,Inflow
+Primary production,Fossil inflow,745624.2194,Peat and peat products,Fossil,Inflow
+Primary production,Fossil inflow,3222657.384,Oil shale and oil sands,Fossil,Inflow
+Primary production,Fossil inflow,18807500.69,Natural gas,Fossil,Inflow
+Primary production,Fossil inflow,15767660.38,Oil and petroleum products (excluding biofuel portion),Fossil,Inflow
+Recovered and recycled products,Fossil inflow,311936.737,Solid fossil fuels,Fossil,Inflow
+Recovered and recycled products,Fossil inflow,1103491.62,Oil and petroleum products (excluding biofuel portion),Fossil,Inflow
+Imports,Fossil inflow,72386417.71,Solid fossil fuels,Fossil,Inflow
+Imports,Fossil inflow,34712.5703,Peat and peat products,Fossil,Inflow
+Imports,Fossil inflow,191693917.7,Natural gas,Fossil,Inflow
+Imports,Fossil inflow,665901347.4,Oil and petroleum products (excluding biofuel portion),Fossil,Inflow
+Released stock,Fossil inflow,4617951.34,Oil and petroleum products (excluding biofuel portion),Fossil,Inflow
+Released stock,Fossil inflow,362107.8098,Peat and peat products,Fossil,Inflow
+Fossil inflow,Stocks,1673949.598,Solid fossil fuels,Fossil,Inflow
+Fossil inflow,Stocks,350432.2395,Oil shale and oil sands,Fossil,Inflow
+Fossil inflow,Stocks,1268388.222,Natural gas,Fossil,Inflow
+Fossil inflow,Export,15798428.67,Solid fossil fuels,Fossil,Outflow
+Fossil inflow,Export,10777.8215,Peat and peat products,Fossil,Outflow
+Fossil inflow,Export,34361278.38,Natural gas,Fossil,Outflow
+Fossil inflow,Export,265638490.2,Oil and petroleum products (excluding biofuel portion),Fossil,Outflow
+Fossil inflow,International maritime bunkers,397345.7736,Natural gas,Fossil,Outflow
+Fossil inflow,International maritime bunkers,32083708.7,Oil and petroleum products (excluding biofuel portion),Fossil,Outflow
+Fossil inflow,International aviation,32057952.26,Oil and petroleum products (excluding biofuel portion),Fossil,Outflow
+Fossil inflow,Total energy supply,139350346.3,Solid fossil fuels,Fossil,Internal
+Fossil inflow,Total energy supply,1131666.807,Peat and peat products,Fossil,Internal
+Fossil inflow,Total energy supply,2872225.145,Oil shale and oil sands,Fossil,Internal
+Fossil inflow,Total energy supply,174474406,Natural gas,Fossil,Internal
+Fossil inflow,Total energy supply,357610299.6,Oil and petroleum products (excluding biofuel portion),Fossil,Internal
+Total energy supply,Refinery & Conversion,25039022.94,Solid fossil fuels,Fossil,Internal
+Total energy supply,Refinery & Conversion,18456.1758,Peat and peat products,Fossil,Internal
+Total energy supply,Refinery & Conversion,1852057.58,Natural gas,Fossil,Internal
+Total energy supply,Refinery & Conversion,540619972.4,Oil and petroleum products (excluding biofuel portion),Fossil,Internal
+Total energy supply,Distribution losses,40009.06,Solid fossil fuels,Fossil,Outflow
+Total energy supply,Distribution losses,481.3006,Peat and peat products,Fossil,Outflow
+Total energy supply,Distribution losses,725259.9024,Natural gas,Fossil,Outflow
+Total energy supply,Distribution losses,5748.96,Oil and petroleum products (excluding biofuel portion),Fossil,Outflow
+Total energy supply,Final consumption - non-energy use,1528520.827,Solid fossil fuels,Fossil,Outflow
+Total energy supply,Final consumption - non-energy use,89430.8475,Oil shale and oil sands,Fossil,Outflow
+Total energy supply,Final consumption - non-energy use,6000540.109,Natural gas,Fossil,Outflow
+Total energy supply,Final consumption - non-energy use,52240377.16,Oil and petroleum products (excluding biofuel portion),Fossil,Outflow
+Total energy supply,Energy sector - energy use,442122.0314,Solid fossil fuels,Fossil,Internal
+Total energy supply,Energy sector - energy use,8155.002,Peat and peat products,Fossil,Internal
+Total energy supply,Energy sector - energy use,5286345.213,Natural gas,Fossil,Internal
+Total energy supply,Energy sector - energy use,22240706.76,Oil and petroleum products (excluding biofuel portion),Fossil,Internal
+Total energy supply,Unallocated Carbon,19301737.59,Mixed,Fossil,Outflow
+Refinery & Conversion,Transformation Emissions?,168792442.1,Mixed,Fossil,Outflow
+Refinery & Conversion,Emissions industry sector ,9022017.627,Solid fossil fuels,Fossil,Outflow
+Refinery & Conversion,Emissions industry sector ,61456.9771,Peat and peat products,Fossil,Outflow
+Refinery & Conversion,Emissions industry sector ,43145995.58,Natural gas,Fossil,Outflow
+Refinery & Conversion,Emissions industry sector ,20103220.2,Oil and petroleum products (excluding biofuel portion),Fossil,Outflow
+Refinery & Conversion,Emissions transport sector,426.3448,Solid fossil fuels,Fossil,Outflow
+Refinery & Conversion,Emissions transport sector,2043831.681,Natural gas,Fossil,Outflow
+Refinery & Conversion,Emissions transport sector,211661665,Oil and petroleum products (excluding biofuel portion),Fossil,Outflow
+Refinery & Conversion,Emissions other sectors,6684023.847,Solid fossil fuels,Fossil,Outflow
+Refinery & Conversion,Emissions other sectors,245720.0825,Peat and peat products,Fossil,Outflow
+Refinery & Conversion,Emissions other sectors,64460889.4,Natural gas,Fossil,Outflow
+Refinery & Conversion,Emissions other sectors,41307820.26,Oil and petroleum products (excluding biofuel portion),Fossil,Outflow
