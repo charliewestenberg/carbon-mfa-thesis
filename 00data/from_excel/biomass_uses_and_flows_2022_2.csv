@@ -1,0 +1,31 @@
+﻿Geopolitical Entity,Year,Sector,Level_Sankey,Lifecycle Step,Source,Target,Flow,Unit,Value (THOUSAND TONNES),Value C (TONNES)
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Animal based food,Feed & bedding,Animal-based food,Agriculture biomass,1000 T of dry matter (gross trade),28785.700049158877,13817136.02
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Exports,Biomass supply,Exports,Agriculture biomass,1000 T of dry matter (gross trade),40768.37937878079,20384189.69
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Exports,Feed & bedding,Exports,Agriculture biomass,1000 T of dry matter (gross trade),56757.41288100469,27243558.18
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Exports,Feed & bedding,Exports,Agriculture biomass,1000 T of dry matter (net trade),25613.756794688154,12294603.26
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Exports,Fibres and others,Exports,Agriculture biomass,1000 T of dry matter (gross trade),7348.864234582502,3674432.12
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Exports,Plant-based food supply,Exports,Agriculture biomass,1000 T of dry matter (gross trade),32398.36630588016,15551215.83
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Imports,Imports,Biomass supply,Agriculture biomass,1000 T of dry matter (gross trade),157972.09298670114,78986046.49
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Imports,Imports,Biomass supply,Agriculture biomass,1000 T of dry matter (net trade),46312.82698114117,23156413.49
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Inner uses,Biofuels,Bioenergy,Agriculture biomass,1000 T of dry matter (gross trade),12441.16,6483087.02
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Inner uses,Feed & food products,Feed & bedding,Agriculture biomass,1000 T of dry matter (gross trade),480076.53125098813,230436735.00
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Inner uses,Feed & food products,Feed & bedding,Agriculture biomass,1000 T of dry matter (net trade),448932.8751646716,215487780.08
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Inner uses,Feed & food products,Plant-based food supply,Agriculture biomass,1000 T of dry matter (gross trade),131018.28346186159,62888776.06
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Inner uses,Feed & food products,Plant-based food supply,Agriculture biomass,1000 T of dry matter (net trade),98619.91715598143,47337560.23
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Losses/Unknown,Biomass supply,Residues - unknown use,Agriculture biomass,1000 T of dry matter (gross trade),59600.674033603005,29800337.02
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Losses/Unknown,Biomass supply,Unknown/Losses,Agriculture biomass,1000 T of dry matter (gross trade),71778.31671604607,35889158.36
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Losses/Unknown,Residues,Not harvested residues,Agriculture biomass,1000 T of dry matter (gross trade),327341.9386191001,163670969.31
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Plant based food,Plant-based food supply,Plant-based food,Agriculture biomass,1000 T of dry matter (gross trade),96010.44263318749,46085012.46
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Production,Crop production,Biomass supply,Agriculture biomass,1000 T of dry matter (gross trade),466914.30503500026,224118866.42
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Production,Grazing,Biomass supply,Agriculture biomass,1000 T of dry matter (gross trade),92966.12,44623739.46
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Production,Residues,Biomass supply,Agriculture biomass,1000 T of dry matter (gross trade),88956.22990090001,44478114.95
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Uses,Biomass supply,Biofuels,Agriculture biomass,1000 T of dry matter (gross trade),12441.16,6483087.02
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Uses,Biomass supply,Feed & food products,Agriculture biomass,1000 T of dry matter (gross trade),613689.5525385889,294570985.22
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Uses,Biomass supply,Feed & food products,Agriculture biomass,1000 T of dry matter (net trade),550147.5301463922,264070814.47
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Uses,Biomass supply,Fibres and others,Agriculture biomass,1000 T of dry matter (gross trade),8530.671935582503,4094722.53
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Uses,Biomass supply,Fibres and others,Agriculture biomass,1000 T of dry matter (net trade),1181.81,567267.70
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Waste,Feed & bedding,Food waste,Agriculture biomass,1000 T of dry matter (gross trade),2853.109394353464,1369492.51
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Waste,Feed & food products,Food waste,Agriculture biomass,1000 T of dry matter (gross trade),2594.7378258391623,1245474.16
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Waste,Plant-based food supply,Food waste,Agriculture biomass,1000 T of dry matter (gross trade),2609.4745227939375,1252547.77
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Waste_CO_AN,Animal-based food,Food waste,Agriculture biomass,1000 T of dry matter (gross trade),4056.3540135743065,1947049.93
+European Union (27 countries),2022,Agriculture,L2 - Biomass by type,Waste_CO_VE,Plant-based food,Food waste,Agriculture biomass,1000 T of dry matter (gross trade),16106.093689145115,7730924.97
