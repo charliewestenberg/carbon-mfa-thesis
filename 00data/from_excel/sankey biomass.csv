@@ -1,20 +1,34 @@
 ﻿Source,Target,Value_tC,Carrier,Flow,flow_type
-Domestic extraction,Direct material inputs,568854745.92,Crops,Biogenic,Inflow
-Domestic extraction,Direct material inputs,147331239.64,Wood,Biogenic,Inflow
+Domestic extraction,Direct material inputs,568854745.9,Crops,Biogenic,Inflow
+Domestic extraction,Direct material inputs,147331239.6,Wood,Biogenic,Inflow
 Domestic extraction,Direct material inputs,1916775.45,Fishery,Biogenic,Inflow
 Imports,Direct material inputs,45806162.88,Crops,Biogenic,Inflow
 Imports,Direct material inputs,11897100.68,Wood,Biogenic,Inflow
-Imports,Direct material inputs,2358128.70,Fishery,Biogenic,Inflow
-Imports,Direct material inputs,2269388.70,Live animals and animal products,Biogenic,Inflow
+Imports,Direct material inputs,2358128.7,Fishery,Biogenic,Inflow
+Imports,Direct material inputs,2269388.7,Live animals and animal products,Biogenic,Inflow
 Imports,Direct material inputs,38403486.96,Products mainly from biomass,Biogenic,Inflow
-Direct material inputs,Exports,38421607.20,Crops,Biogenic,Inflow
+Direct material inputs,Exports,38421607.2,Crops,Biogenic,Inflow
 Direct material inputs,Exports,15527313.73,Wood,Biogenic,Outflow
-Direct material inputs,Exports,759806.10,Fishery,Biogenic,Outflow
-Direct material inputs,Exports,6657945.30,Live animals and animal products,Biogenic,Outflow
+Direct material inputs,Exports,759806.1,Fishery,Biogenic,Outflow
+Direct material inputs,Exports,6657945.3,Live animals and animal products,Biogenic,Outflow
 Direct material inputs,Exports,44428139.18,Products mainly from biomass,Biogenic,Outflow
-Direct material inputs,Feed,104399000.00,Aggregated biomass,Biogenic,Outflow
-Direct material inputs,Food,224682000.00,Aggregated biomass,Biogenic,Outflow
-Direct material inputs,Emissions from biomass,153079940.00,Aggregated biomass,Biogenic,Outflow
-Direct material inputs,Industrial wood,88417465.00,Wood,Biogenic,Outflow
-Direct material inputs,Waste,29349500.00,Aggregated biomass,Biogenic,Outflow
-Direct material inputs,Unknown carbon,113114313.04,Aggregated biomass,Biogenic,Outflow
+Direct material inputs,Feed,15332640,Live animals and animal products,Biogenic,Outflow
+Direct material inputs,Feed,83704320,Crops,Biogenic,Outflow
+Direct material inputs,Feed,479520,Products mainly from biomass,Biogenic,Outflow
+Direct material inputs,Feed,706560,Fishery,Biogenic,Outflow
+Direct material inputs,Food,74348160,Live animals and animal products,Biogenic,Outflow
+Direct material inputs,Food,108661440,Crops,Biogenic,Outflow
+Direct material inputs,Food,27783360,Products mainly from biomass,Biogenic,Outflow
+Direct material inputs,Food,4901760,Fishery,Biogenic,Outflow
+Direct material inputs,Losses,592800,Live animals and animal products,Biogenic,Outflow
+Direct material inputs,Losses,12829920,Crops,Biogenic,Outflow
+Direct material inputs,Losses,48000,Products mainly from biomass,Biogenic,Outflow
+Direct material inputs,Other Uses,2702580,Live animals and animal products,Biogenic,Outflow
+Direct material inputs,Other Uses,20775580,Crops,Biogenic,Outflow
+Direct material inputs,Other Uses,16129300,Products mainly from biomass,Biogenic,Outflow
+Direct material inputs,Other Uses,13640,Fishery,Biogenic,Outflow
+Direct material inputs,Emissions from biomass,153079940,Aggregated biomass,Biogenic,Outflow
+Direct material inputs,Industrial wood,88417465,Wood,Biogenic,Outflow
+Direct material inputs,Fuel wood,31366265,Wood,Biogenic,Outflow
+Direct material inputs,Waste,29349500,Aggregated biomass,Biogenic,Outflow
+Direct material inputs,Unknown carbon,41819468.04,Aggregated biomass,Biogenic,Outflow
