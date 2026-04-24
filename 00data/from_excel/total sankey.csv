@@ -1,0 +1,107 @@
+﻿Source,Target,Value_tC,Carrier_detail,Carrier,Flow,flow_type
+Imports,Fossil inflow,420529288.3,Crude oil,Oil,Fossil,Inflow
+Imports,Fossil inflow,66174548.66,Hard coal,Coal,Fossil,Inflow
+Imports,Fossil inflow,516538.992,Brown coal,Coal,Fossil,Inflow
+Imports,Fossil inflow,22482.45,Peat,Coal,Fossil,Inflow
+Imports,Fossil inflow,191635213.3,Gas,Gas,Fossil,Inflow
+Indigenous production,Fossil inflow,16122248.23,Crude oil,Oil,Fossil,Inflow
+Indigenous production,Fossil inflow,35600800.92,Hard coal,Coal,Fossil,Inflow
+Indigenous production,Fossil inflow,73770287.79,Brown coal,Coal,Fossil,Inflow
+Indigenous production,Fossil inflow,538807.248,Peat,Coal,Fossil,Inflow
+Indigenous production,Fossil inflow,11335021.87,Oil shale and oil sands,Oil,Fossil,Inflow
+Indigenous production,Fossil inflow,18754272.92,Natural gas,Gas,Fossil,Inflow
+Fossil inflow,Exports,12187795.79,Crude oil,Oil,Fossil,Outflow
+Fossil inflow,Exports,7368799.92,Hard coal,Coal,Fossil,Outflow
+Fossil inflow,Exports,892149.504,Brown coal,Coal,Fossil,Outflow
+Fossil inflow,Exports,8079.018,Peat,Coal,Fossil,Outflow
+Fossil inflow,Exports,34314175.18,Gas,Gas,Fossil,Outflow
+Released stocks,Fossil inflow,2505965.632,Hard coal,Coal,Fossil,Inflow
+Released stocks,Fossil inflow,830384.152,Brown coal,Coal,Fossil,Inflow
+Released stocks,Fossil inflow,1156683.348,Crude oil,Oil,Fossil,Inflow
+Released stocks,Fossil inflow,1262136.994,Gas,Gas,Fossil,Inflow
+Fossil inflow,Stock,3419992.224,Crude oil,Oil,Fossil,Stock
+Fossil inflow,Stock,442333.356,Peat,Coal,Fossil,Stock
+Fossil inflow,Refining & Conversion,433535410,Crude oil,Oil,Fossil,Refinery
+Fossil inflow,Refining & Conversion,177059100,Gas,Gas,Fossil,Refinery
+Fossil inflow,Refining & Conversion,74225060,Brown coal,Coal,Fossil,Refinery
+Fossil inflow,Refining & Conversion,96912520,Hard coal,Coal,Fossil,Refinery
+Fossil inflow,Refining & Conversion,110877.3,Peat,Coal,Fossil,Refinery
+Refining & Conversion,Energy production,5595362.29,Refinery Products,Refinery Products,Fossil,Internal
+Refining & Conversion,Transport,213312613.4,Refinery Products,Refinery Products,Fossil,Internal
+Refining & Conversion,Manufacturing industries and construction,96745295.93,Refinery Products,Refinery Products,Fossil,Internal
+Refining & Conversion,Energy industries,186165760.1,Refinery Products,Refinery Products,Fossil,Internal
+Refining & Conversion,Other Energy Uses,119136559.3,Refinery Products,Refinery Products,Fossil,Internal
+Refining & Conversion,International aviation bunker,32932249.85,Refinery Products,Refinery Products,Fossil,Sink
+Refining & Conversion,International maritime bunker,32662738.79,Refinery Products,Refinery Products,Fossil,Sink
+Refining & Conversion,CO2 captured,14001.36,Refinery Products,Refinery Products,Fossil,Sink
+Energy production,Carbon Emissions,5595362.29,Carbon Emissions,Carbon Emissions,Fossil,Emissions
+Transport,Carbon Emissions,213312613.4,Carbon Emissions,Carbon Emissions,Fossil,Emissions
+Manufacturing industries and construction,Carbon Emissions,96745295.93,Carbon Emissions,Carbon Emissions,Fossil,Emissions
+Energy industries,Carbon Emissions,186165760.1,Carbon Emissions,Carbon Emissions,Fossil,Emissions
+Other Energy Uses,Carbon Emissions,119136269.2,Carbon Emissions,Carbon Emissions,Fossil,Emissions
+Refining & Conversion,Material stock,44459582.1,Petrochemicals,Fossil materials,Fossil,Sink
+Refining & Conversion,Material stock,9364623.4,Bitumen,Fossil materials,Fossil,Sink
+Refining & Conversion,Material stock,911497.1975,Other materials,Fossil materials,Fossil,Sink
+Refining & Conversion,Unknown Carbon (Balancing Flow),40821072.11,Refinery Products,Refinery Products,Fossil,Sink
+Domestic extraction,Biomass inflow,335194699.9,Crops,Crops,Biogenic,Inflow
+Domestic extraction,Biomass inflow,154759705.5,Wood,Wood,Biogenic,Inflow
+Domestic extraction,Biomass inflow,575032.635,Fishery,Animal Products,Biogenic,Inflow
+Imports,Biomass inflow,39368563.76,Crops,Crops,Biogenic,Inflow
+Imports,Biomass inflow,12496954.5,Wood,Wood,Biogenic,Inflow
+Imports,Biomass inflow,707438.61,Fishery,Animal Products,Biogenic,Inflow
+Imports,Biomass inflow,680816.61,Live animals and animal products,Animal Products,Biogenic,Inflow
+Imports,Biomass inflow,38403486.96,Products mainly from biomass,Products from biomass,Biogenic,Inflow
+Biomass inflow,Exports,32497269.24,Crops,Crops,Biogenic,Inflow
+Biomass inflow,Exports,16310203.5,Wood,Wood,Biogenic,Outflow
+Biomass inflow,Exports,227941.83,Fishery,Animal Products,Biogenic,Outflow
+Biomass inflow,Exports,1997383.59,Live animals and animal products,Animal Products,Biogenic,Outflow
+Biomass inflow,Exports,44428139.18,Products mainly from biomass,Products from biomass,Biogenic,Outflow
+Biomass inflow,Food and feed,3692594.2,Feed - Live animals and animal products,Animal Products,Biogenic,Outflow
+Biomass inflow,Food and feed,68405174,Feed - Crops,Crops,Biogenic,Outflow
+Biomass inflow,Food and feed,369630,Feed - Products mainly from biomass,Products from biomass,Biogenic,Outflow
+Biomass inflow,Food and feed,191360,Feed - Fishery,Animal Products,Biogenic,Outflow
+Biomass inflow,Food and feed,15002361.8,Food - Live animals and animal products,Animal Products,Biogenic,Outflow
+Biomass inflow,Food and feed,42010194,Food - Crops,Crops,Biogenic,Outflow
+Biomass inflow,Food and feed,7207960,Food - Products mainly from biomass,Products from biomass,Biogenic,Outflow
+Biomass inflow,Food and feed,1327560,Food - Fishery,Animal Products,Biogenic,Outflow
+Biomass inflow,Other,129476.6,Losses - Live animals and animal products,Animal Products,Biogenic,Outflow
+Biomass inflow,Other,5258288,Losses - Crops,Crops,Biogenic,Outflow
+Biomass inflow,Other,19930,Losses - Products mainly from biomass,Products from biomass,Biogenic,Outflow
+Biomass inflow,Other,510008,Other Uses - Live animals and animal products,Animal Products,Biogenic,Outflow
+Biomass inflow,Other,10925714,Other Uses - Crops,Crops,Biogenic,Outflow
+Biomass inflow,Other,6991310,Other Uses - Products mainly from biomass,Products from biomass,Biogenic,Outflow
+Biomass inflow,Other,2860,Other Uses - Fishery,Animal Products,Biogenic,Outflow
+Biomass inflow,Carbon Emissions,153079940,Aggregated biomass,Carbon Emissions (Biogenic),Biogenic,Outflow
+Biomass inflow,Wood,88417465,Industrial wood,Wood,Biogenic,Outflow
+Biomass inflow,Wood,31366265,Fuel wood,Wood,Biogenic,Outflow
+Biomass inflow,Waste,29349500,Aggregated biomass,Mixed Biogenic,Biogenic,Outflow
+Biomass inflow,Unknown Carbon (Balancing Flow),22468171.16,Aggregated biomass,Mixed Biogenic,Biogenic,Outflow
+Production,Total mineral inflow,21080157.43,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Inflow
+Production,Total mineral inflow,731907.1852,Chalk,Mixed Mineral,Mineral,Inflow
+Production,Total mineral inflow,1942983.879,Dolomite,Mixed Mineral,Mineral,Inflow
+Production,Total mineral inflow,20364246.67,Crushed limestone & dolomite,Limestone (Aggregates),Mineral,Inflow
+Imports,Total mineral inflow,224821.2887,Mixed,Mixed Mineral,Mineral,Inflow
+Total mineral inflow,Cement production,16523392.5,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Internal
+Total mineral inflow,Lime production,3854263.5,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Internal
+Total mineral inflow,Liming,1403576.1,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Internal
+Total mineral inflow,Aggregates,20364246.67,Crushed limestone & dolomite,Limestone (Aggregates),Mineral,Outflow
+Total mineral inflow,Exports,271952.9603,Mixed,Mixed Mineral,Mineral,Outflow
+Cement production,Carbon Emissions,16523392.5,Emissions,Carbon Emissions,Mineral,Outflow
+Lime production,Carbon Emissions,3854263.5,Emissions,Carbon Emissions,Mineral,Outflow
+Liming,Carbon Emissions,1403576.1,Emissions,Carbon Emissions,Mineral,Outflow
+Total mineral inflow,Unknown Carbon (Balancing Flow),1926684.725,Mixed,Mixed Mineral,Mineral,Outflow
+Imports,Product input,17582565.66,Organic Chemicals,Mixed Material,Mixed,Inflow
+Imports,Product input,184651.042,Pharmaceutical Products,Mixed Material,Mixed,Inflow
+Imports,Product input,10200759.18,Chemical products,Mixed Material,Mixed,Inflow
+Imports,Product input,15050898.14,Plastic materials & products,Mixed Material,Mixed,Inflow
+Imports,Product input,4830723.642,Rubber materials & products,Mixed Material,Mixed,Inflow
+Imports,Product input,4797162.737,Textiles,Mixed Material,Mixed,Inflow
+Imports,Product input,1245251.99,Toys & sporting goods,Mixed Material,Mixed,Inflow
+Product input,Exports,7478607.49,Organic Chemicals,Mixed Material,Mixed,Outflow
+Product input,Exports,546100.896,Pharmaceutical Products,Mixed Material,Mixed,Outflow
+Product input,Exports,11469270.3,Chemical products,Mixed Material,Mixed,Outflow
+Product input,Exports,14636220.5,Plastic materials & products,Mixed Material,Mixed,Outflow
+Product input,Exports,3930604.6,Rubber materials & products,Mixed Material,Mixed,Outflow
+Product input,Exports,1842603.15,Textiles,Mixed Material,Mixed,Outflow
+Product input,Exports,370576.178,Toys & sporting goods,Mixed Material,Mixed,Outflow
+Product input,Material stock,13618029.24,Mixed Material,Mixed Material,Mixed,Stock
