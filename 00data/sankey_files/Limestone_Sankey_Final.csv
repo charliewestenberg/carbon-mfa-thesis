@@ -1,0 +1,15 @@
+﻿Source,Target,Value_tC,Carrier_detail,Carrier,Flow,flow_type
+Production,Total inflow,21080157.43,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Inflow
+Production,Total inflow,731907.1852,Chalk,Chalk,Mineral,Inflow
+Production,Total inflow,1942983.879,Dolomite,Dolomite,Mineral,Inflow
+Production,Total inflow,20364246.67,Crushed limestone & dolomite,Limestone (Aggregates),Mineral,Inflow
+Import,Total inflow,224821.2887,Mixed,Mixed Mineral,Mineral,Inflow
+Total inflow,Cement production,16523392.5,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Internal
+Total inflow,Lime production,3854263.5,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Internal
+Total inflow,Liming,1403576.1,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Internal
+Total inflow,Aggregates,20364246.67,Crushed limestone & dolomite,Limestone (Aggregates),Mineral,Outflow
+Total inflow,Exports,271952.9603,Mixed,Mixed Mineral,Mineral,Outflow
+Cement production,Emissions,16523392.5,Emissions,Carbon Emissions,Mineral,Outflow
+Lime production,Emissions,3854263.5,Emissions,Carbon Emissions,Mineral,Outflow
+Liming,Emissions,1403576.1,Emissions,Carbon Emissions,Mineral,Outflow
+Total inflow,Unknown carbon,1926684.725,Mixed,Mixed Mineral,Mineral,Outflow
