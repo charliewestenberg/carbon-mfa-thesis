@@ -1,9 +1,9 @@
 ﻿Source,Target,Value_tC,Carrier_detail,Carrier,Flow,flow_type,policy_cov,policy_type,policy_name
-Imports,Fossil inflow,420529288.3,Crude oil,Oil,Fossil,Inflow,no,,
-Imports,Fossil inflow,66174548.66,Hard coal,Coal,Fossil,Inflow,no,,
-Imports,Fossil inflow,516538.992,Brown coal,Coal,Fossil,Inflow,no,,
-Imports,Fossil inflow,22482.45,Peat,Coal,Fossil,Inflow,no,,
-Imports,Fossil inflow,191635213.3,Gas,Gas,Fossil,Inflow,no,,
+Import,Fossil inflow,420529288.3,Crude oil,Oil,Fossil,Inflow,no,,
+Import,Fossil inflow,66174548.66,Hard coal,Coal,Fossil,Inflow,no,,
+Import,Fossil inflow,516538.992,Brown coal,Coal,Fossil,Inflow,no,,
+Import,Fossil inflow,22482.45,Peat,Coal,Fossil,Inflow,no,,
+Import,Fossil inflow,191635213.3,Gas,Gas,Fossil,Inflow,no,,
 Domestic Extraction,Fossil inflow,16122248.23,Crude oil,Oil,Fossil,Inflow,no,,
 Domestic Extraction,Fossil inflow,35600800.92,Hard coal,Coal,Fossil,Inflow,no,,
 Domestic Extraction,Fossil inflow,73770287.79,Brown coal,Coal,Fossil,Inflow,no,,
@@ -21,13 +21,13 @@ Released stocks,Fossil inflow,1156683.348,Crude oil,Oil,Fossil,Inflow,no,,
 Released stocks,Fossil inflow,1262136.994,Gas,Gas,Fossil,Inflow,no,,
 Fossil inflow,Stock,3419992.224,Crude oil,Oil,Fossil,Stock,no,,
 Fossil inflow,Stock,442333.356,Peat,Coal,Fossil,Stock,no,,
-Fossil inflow,Refining & Conversion,433535410,Crude oil,Oil,Fossil,Refinery,no,,
+Fossil inflow,Refining & Conversion,433535453.7,Crude oil,Oil,Fossil,Refinery,no,,
 Fossil inflow,Refining & Conversion,18754272.92,Natural gas,Gas,Fossil,Refinery,yes,regulation,TEN-E
-Fossil inflow,Refining & Conversion,158304827.1,Gas,Gas,Fossil,Refinery,no,,
-Fossil inflow,Refining & Conversion,74225060,Brown coal,Coal,Fossil,Refinery,no,,
-Fossil inflow,Refining & Conversion,96912520,Hard coal,Coal,Fossil,Refinery,no,,
-Fossil inflow,Refining & Conversion,110877.3,Peat,Coal,Fossil,Refinery,no,,
-Refining & Conversion,Energy production,5595362.29,Refinery Products,Refinery Products,Fossil,Internal,yes,cap & regulation,"Methane Regulation, ETS, IED"
+Fossil inflow,Refining & Conversion,158583175.1,Gas,Gas,Fossil,Refinery,no,,
+Fossil inflow,Refining & Conversion,74225061.43,Brown coal,Coal,Fossil,Refinery,no,,
+Fossil inflow,Refining & Conversion,96912515.29,Hard coal,Coal,Fossil,Refinery,no,,
+Fossil inflow,Refining & Conversion,110877.324,Peat,Coal,Fossil,Refinery,no,,
+Refining & Conversion,Other Energy Uses,5595362.29,Energy production,Refinery Products,Fossil,Internal,yes,cap & regulation,"Methane Regulation, ETS, IED"
 Refining & Conversion,Transport,213312613.4,Refinery Products,Refinery Products,Fossil,Internal,yes,cap & regulation & tax,"Euro 7, Eurovignette, Non-road machinery, CO₂ Heavy-duty Vehicles, AFIR, Energy taxation, CO₂ standards for cars/vans, ESR, RED"
 Refining & Conversion,Manufacturing industries and construction,96745295.93,Refinery Products,Refinery Products,Fossil,Internal,yes,cap & regulation & tax,"ETS, IAA, RED, ESR, Energy Taxation, Construction Products Regulation, Energy Performance of Buildings, IED"
 Refining & Conversion,Energy industries,186165760.1,Refinery Products,Refinery Products,Fossil,Internal,yes,cap & regulation & tax,"Energy Taxation, ETS, RED"
@@ -35,15 +35,15 @@ Refining & Conversion,Other Energy Uses,119136559.3,Refinery Products,Refinery P
 Refining & Conversion,International aviation bunker,32932249.85,Refinery Products,Refinery Products,Fossil,Sink,yes,cap ,ReFuel EU
 Refining & Conversion,International maritime bunker,32662738.79,Refinery Products,Refinery Products,Fossil,Sink,yes,cap ,FuelEU Maritime
 Refining & Conversion,CO2 captured,14001.36,Refinery Products,Refinery Products,Fossil,Sink,yes,regulation,"CCS Directive, CO₂ Market and Infrastructure Framework, Carbon Removals and Carbon Farming"
-Energy production,Carbon Emissions,5595362.29,Carbon Emissions,Carbon Emissions,Fossil,Emissions,yes,regulation,"Methane Regulation, ETS, IED"
+Other Energy Uses,Carbon Emissions,5595362.29,Energy production,Carbon Emissions,Fossil,Emissions,yes,regulation,"Methane Regulation, ETS, IED"
 Transport,Carbon Emissions,213312613.4,Carbon Emissions,Carbon Emissions,Fossil,Emissions,yes,cap & regulation & tax,"Euro 7, Eurovignette, Non-road machinery, CO₂ Heavy-duty Vehicles, AFIR, Energy taxation, CO₂ standards for cars/vans, ESR, RED"
 Manufacturing industries and construction,Carbon Emissions,96745295.93,Carbon Emissions,Carbon Emissions,Fossil,Emissions,yes,cap & regulation & tax,"ETS, IAA, RED, ESR, Energy Taxation, Construction Products Regulation, Energy Performance of Buildings, IED"
 Energy industries,Carbon Emissions,186165760.1,Carbon Emissions,Carbon Emissions,Fossil,Emissions,yes,cap & regulation & tax,"Energy Taxation, ETS, RED"
-Other Energy Uses,Carbon Emissions,119136269.2,Carbon Emissions,Carbon Emissions,Fossil,Emissions,yes,cap & regulation,"ETS, RED, ESR, Energy Performance of Buildings, Regulation on Fluorinated Greenhouse Gases"
-Refining & Conversion,Material stock,44459582.1,Petrochemicals,Fossil materials,Fossil,Sink,yes,cap & regulation,"Single-use plastic, Packaging, Ecodesign, ETS, Waste Directive "
-Refining & Conversion,Material stock,9364623.4,Bitumen,Fossil materials,Fossil,Sink,yes,regulation,"Construction Products Regulation, Waste Framework Directive"
-Refining & Conversion,Material stock,911497.1975,Other materials,Fossil materials,Fossil,Sink,yes,cap & regulation,"ETS, IED"
-Refining & Conversion,Unknown Carbon (Balancing Flow),40821072.11,Refinery Products,Refinery Products,Fossil,Sink,no,,
+Other Energy Uses,Carbon Emissions,119136559.3,Carbon Emissions,Carbon Emissions,Fossil,Emissions,yes,cap & regulation,"ETS, RED, ESR, Energy Performance of Buildings, Regulation on Fluorinated Greenhouse Gases"
+Refining & Conversion,Other materials (incl. end-plastics),44459582.1,Petrochemicals,Fossil materials,Fossil,Sink,yes,cap & regulation,"Single-use plastic, Packaging, Ecodesign, ETS, Waste Directive "
+Refining & Conversion,Other materials (incl. end-plastics),9364623.4,Bitumen,Fossil materials,Fossil,Sink,yes,regulation,"Construction Products Regulation, Waste Framework Directive"
+Refining & Conversion,Other materials (incl. end-plastics),911497.1975,Other materials,Fossil materials,Fossil,Sink,yes,cap & regulation,"ETS, IED"
+Refining & Conversion,Unknown Carbon (Balancing Flow),40820782.02,Refinery Products,Refinery Products,Fossil,Sink,no,,
 Indigenous production,Biomass inflow,335194699.9,Crops,Crops,Biogenic,Inflow,yes,subsidy,CAP
 Indigenous production,Biomass inflow,154759705.5,Wood,Wood,Biogenic,Inflow,yes,cap & regulation,"EU-Deforestation, LULUCF"
 Indigenous production,Biomass inflow,575032.635,Fishery,Animal Products,Biogenic,Inflow,yes,regulation,Total Allowable Catches
@@ -76,21 +76,22 @@ Biomass inflow,Carbon Emissions,153079940,Aggregated biomass,Carbon Emissions (B
 Biomass inflow,Wood,88417465,Industrial wood,Wood,Biogenic,Outflow,yes,regulation,EU-Deforestation
 Biomass inflow,Wood,31366265,Fuel wood,Wood,Biogenic,Outflow,yes,cap & regulation,RED
 Biomass inflow,Waste,29349500,Aggregated biomass,Mixed Biogenic,Biogenic,Outflow,yes,cap & regulation,"Waste Framework, Landfill Regulation"
-Biomass inflow,Unknown Carbon (Balancing Flow),22468171.16,Aggregated biomass,Mixed Biogenic,Biogenic,Outflow,no,,
-Production,Total mineral inflow,21080157.43,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Inflow,no,,
-Production,Total mineral inflow,731907.1852,Chalk,Mixed Mineral,Mineral,Inflow,no,,
-Production,Total mineral inflow,1942983.879,Dolomite,Mixed Mineral,Mineral,Inflow,no,,
-Production,Total mineral inflow,20364246.67,Crushed limestone & dolomite,Limestone (Aggregates),Mineral,Inflow,no,,
-Imports,Total mineral inflow,224821.2887,Mixed,Mixed Mineral,Mineral,Inflow,yes,cap & regulation & tax,"CBAM, IED"
-Total mineral inflow,Cement production,16523392.5,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Internal,yes,cap & regulation,"Construction Products Regulation, ETS, IED"
-Total mineral inflow,Lime production,3854263.5,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Internal,yes,cap & regulation,"Construction Products Regulation, ETS, IED"
-Total mineral inflow,Liming,1403576.1,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Internal,yes,cap & regulation,"Construction Products Regulation, ETS, IED"
-Total mineral inflow,Aggregates,20364246.67,Crushed limestone & dolomite,Limestone (Aggregates),Mineral,Outflow,no,,
-Total mineral inflow,Exports,271952.9603,Mixed,Mixed Mineral,Mineral,Outflow,no,,
+Biomass inflow,Carbon Emissions,4807598.055,Enteric fermentation,Carbon Emissions (Biogenic),Biogenic,Outflow,,,
+Biomass inflow,Unknown Carbon (Balancing Flow),17660573.11,Aggregated biomass,Mixed Biogenic,Biogenic,Outflow,no,,
+Production,Mineral inflow,21080157.43,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Inflow,no,,
+Production,Mineral inflow,731907.1852,Chalk,Mixed Mineral,Mineral,Inflow,no,,
+Production,Mineral inflow,1942983.879,Dolomite,Mixed Mineral,Mineral,Inflow,no,,
+Production,Mineral inflow,20364246.67,Crushed limestone & dolomite,Limestone (Aggregates),Mineral,Inflow,no,,
+Imports,Mineral inflow,224821.2887,Mixed,Mixed Mineral,Mineral,Inflow,yes,cap & regulation & tax,"CBAM, IED"
+Mineral inflow,Cement production,16523392.5,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Internal,yes,cap & regulation,"Construction Products Regulation, ETS, IED"
+Mineral inflow,Lime production,3854263.5,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Internal,yes,cap & regulation,"Construction Products Regulation, ETS, IED"
+Mineral inflow,Liming,1403576.1,Limestone used for manufacturing,Limestone (Manufacturing),Mineral,Internal,yes,cap & regulation,"Construction Products Regulation, ETS, IED"
+Mineral inflow,Aggregates,20364246.67,Crushed limestone & dolomite,Limestone (Aggregates),Mineral,Outflow,no,,
+Mineral inflow,Exports,271952.9603,Mixed,Mixed Mineral,Mineral,Outflow,no,,
 Cement production,Carbon Emissions,16523392.5,Emissions,Carbon Emissions,Mineral,Outflow,yes,cap & regulation,"Construction Products Regulation, ETS, IED"
 Lime production,Carbon Emissions,3854263.5,Emissions,Carbon Emissions,Mineral,Outflow,yes,cap & regulation,"Construction Products Regulation, ETS, IED"
 Liming,Carbon Emissions,1403576.1,Emissions,Carbon Emissions,Mineral,Outflow,yes,cap & regulation,"Construction Products Regulation, ETS, IED"
-Total mineral inflow,Unknown Carbon (Balancing Flow),1926684.725,Mixed,Mixed Mineral,Mineral,Outflow,no,,
+Mineral inflow,Unknown Carbon (Balancing Flow),1926684.725,Mixed,Mixed Mineral,Mineral,Outflow,no,,
 Imports,Product input,17582565.66,Organic Chemicals,Mixed Material,Mixed,Inflow,yes,regulation & tax,"Ecodesign, CBAM"
 Imports,Product input,184651.042,Pharmaceutical Products,Mixed Material,Mixed,Inflow,yes,regulation & tax,"Ecodesign, CBAM"
 Imports,Product input,10200759.18,Chemical products,Mixed Material,Mixed,Inflow,yes,regulation & tax,"Ecodesign, CBAM"
